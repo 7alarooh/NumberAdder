@@ -1,0 +1,29 @@
+/* number-adder.component.css */
+
+/* Table Styles */
+table {
+    width: 25%;
+    border-collapse: collapse;
+    font-size: 16px;
+    border: 2px;
+  }
+  
+  td {
+    padding: 5px;
+    text-align: left;
+  }
+  
+  /* Buttons */
+  button {
+    padding: 8px 16px;
+    background-color: #7898ba;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #00b31e;
+  }
+  
